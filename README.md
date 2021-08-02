@@ -23,10 +23,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/murilokascher)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/murilokascher)](https://github.com/murilokascher)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/murilo-kascher/)]( LINK_LINKEDIN)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-kascher/)](https://www.linkedin.com/in/murilo-kascher/)
 
 
 - Thanks for visiting.
