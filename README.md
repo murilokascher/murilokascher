@@ -6,7 +6,7 @@
 
 📚: Gosto de estudar um pouco de todas as áreas, mas atualmente estou aprendendo HTML, CSS e JavaScript. 
 
-📖: Meus conhecimentos abrangem muitas áreas, como: design, edição, produção, animação, programação e desenolvimento.
+📖: Meus conhecimentos abrangem muitas áreas, como: design, edição, produção, animação, programação e desenvolvimento.
 
 📤: Tenho como metas aprender cada vez mais e criar projetos bem pensados e desenvolvidos, focando na estética e usabilidade de cada projeto.
 
